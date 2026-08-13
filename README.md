@@ -22,10 +22,10 @@
 <h3 align="center">🌐 Connect With Me 🌐</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/madhuri-ghadge-a34b6a281">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_EMAIL_OR_OTHER_LINK">
+  <a href="ghadgemadhuri92@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
 </p>
