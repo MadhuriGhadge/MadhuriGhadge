@@ -81,8 +81,6 @@
 
 ---
 
-<h3 align="center">🎯 My Approach</h3>
-
 <p align="center">
   <em>
   "Don't just train the model. Understand it, build it, break it, debug it, and ship it."
