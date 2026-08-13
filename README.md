@@ -81,62 +81,10 @@
 
 ---
 
-<h3 align="center">🚀 Featured Projects 🚀</h3>
-
-### 🔹 Online Retail Customer Retention
-
-Customer analytics and retention analysis using Python, Pandas and PostgreSQL.
-
-**Tech:** Python · Pandas · SQL · PostgreSQL
-
----
-
-### 🔹 Mini RAG & Reranker System
-
-A document Q&A system for industrial safety documents using vector search, embeddings and reranking.
-
-**Tech:** Python · Sentence Transformers · FAISS · SQLite · PyPDF2
-
----
-
-### 🔹 Handwritten Mathematical Symbol Classification
-
-Deep learning experiments for handwritten mathematical symbol classification, including experiments with custom structural loss functions.
-
-**Tech:** Python · PyTorch · CNN · Computer Vision
-
----
-
-### 🔹 NL DSL Strategy Prototype
-
-A domain-specific language prototype for defining trading strategies with code generation and backtesting capabilities.
-
-**Tech:** Python · DSL · Code Generation · Backtesting
-
----
-
-<h3 align="center">📚 Currently Learning</h3>
-
-<p align="center">
-  🧠 Machine Learning & Deep Learning <br/>
-  📐 ML Mathematics & Optimization <br/>
-  🗄️ Advanced SQL & PostgreSQL <br/>
-  ⚡ FastAPI & Backend Engineering <br/>
-  🔧 ML System Design & Production Engineering
-</p>
-
----
-
 <h3 align="center">🎯 My Approach</h3>
 
 <p align="center">
   <em>
   "Don't just train the model. Understand it, build it, break it, debug it, and ship it."
   </em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
