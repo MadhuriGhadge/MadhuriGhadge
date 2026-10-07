@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhuri Ghadge</h1>
 
 <h3 align="center">
-🐍 Python Developer | 📊 Data Science | 🤖 Machine Learning & Deep Learning | ⚡ FastAPI
+Data Science & AI
 </h3>
 
 <p align="center">
