@@ -22,7 +22,7 @@ Data Science & AI
 <h3 align="center">🌐 Connect With Me 🌐</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/madhuri-ghadge-a34b6a281">
+  <a href="www.linkedin.com/in/madhuri-gadge-a34b6a281">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="ghadgemadhuri92@gmail.com">
